@@ -1,0 +1,19 @@
+program MIPS;
+
+uses
+  Vcl.Forms,
+  UPrincP in 'UPrincP.pas' {FPrincP},
+  Vcl.Themes,
+  Vcl.Styles,
+  USecondP in 'USecondP.pas' {FSecondP};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Silver');
+  Application.CreateForm(TFPrincP, FPrincP);
+  Application.CreateForm(TFSecondP, FSecondP);
+  Application.Run;
+end.

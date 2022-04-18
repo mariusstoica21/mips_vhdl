@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/23 23:11:38.000.014,=C:\Users\Marius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/23 23:35:46.000.464,=C:\Users\Marius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/23 23:40:44.000.266,C:\Users\Marius\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\UPrincP.pas</Transaction>
+    <Transaction>2022/01/23 23:40:44.000.266,C:\Users\Marius\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\UPrincP.dfm</Transaction>
+    <Transaction>2022/01/23 23:40:54.000.308,C:\Users\Marius\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\MIPS.dproj</Transaction>
+    <Transaction>2022/01/25 15:05:24.000.759,=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit1.pas</Transaction>
+    <Transaction>2022/01/25 15:05:33.000.790,=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit2.pas</Transaction>
+    <Transaction>2022/01/25 15:05:40.000.980,C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit2.dfm=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\USecondP.dfm</Transaction>
+    <Transaction>2022/01/25 15:05:40.000.980,C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit2.pas=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\USecondP.pas</Transaction>
+    <Transaction>2022/01/27 11:21:10.000.884,=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit1.pas</Transaction>
+    <Transaction>2022/01/27 11:22:49.000.087,C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit1.dfm=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\UThirdP.dfm</Transaction>
+    <Transaction>2022/01/27 11:22:49.000.087,C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\Unit1.pas=C:\Users\Marius\Documents\Embarcadero\Studio\MIPS\UThirdP.pas</Transaction>
+  </Transactions>
+</BorlandProject>

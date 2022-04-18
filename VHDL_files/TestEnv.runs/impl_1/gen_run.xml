@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1650267698">
+  <File Type="ROUTE-PWR" Name="TestEnv_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="TestEnv.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="TestEnv_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="TestEnv_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="TestEnv.msk"/>
+  <File Type="ROUTE-CLK" Name="TestEnv_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="TestEnv.vdi"/>
+  <File Type="BG-BIT" Name="TestEnv.bit"/>
+  <File Type="BG-DRC" Name="TestEnv.drc"/>
+  <File Type="BG-BGN" Name="TestEnv.bgn"/>
+  <File Type="BG-BIN" Name="TestEnv.bin"/>
+  <File Type="BITSTR-RBT" Name="TestEnv.rbt"/>
+  <File Type="BITSTR-NKY" Name="TestEnv.nky"/>
+  <File Type="BITSTR-BMM" Name="TestEnv_bd.bmm"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="TestEnv_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="TestEnv.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="TestEnv.sysdef"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="TestEnv.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-DRC" Name="TestEnv_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="TestEnv.hwdef"/>
+  <File Type="PLACE-IO" Name="TestEnv_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="TestEnv_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="TestEnv_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="TestEnv_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="TestEnv_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="TestEnv_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="TestEnv_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="TestEnv_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="TestEnv_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="TestEnv_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="TestEnv_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="TestEnv_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="TestEnv_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="TestEnv_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="TestEnv_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="TestEnv_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW" Name="TestEnv_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="TestEnv_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="TestEnv_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="TestEnv_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="TestEnv_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="TestEnv_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="TestEnv_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="TestEnv_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="TestEnv_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="TestEnv_postroute_physopt_bb.dcp"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="TestEnv_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="TestEnv_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="TestEnv_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="TestEnv.pdi"/>
+  <File Type="RCFI_FILE" Name="TestEnv.rcfi"/>
+  <File Type="CFI_FILE" Name="TestEnv.cfi"/>
+  <File Type="RNPI_FILE" Name="TestEnv.rnpi"/>
+  <File Type="NPI_FILE" Name="TestEnv.npi"/>
+  <File Type="RBD_FILE" Name="TestEnv.rbd"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../ControlUnit/ControlUnit.srcs/sources_1/new/ControlUnit.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../ExecUnit/ExecUnit.srcs/sources_1/new/ExecUnit.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../InstrDecoder/InstrDecoder.srcs/sources_1/new/InstrDecoder.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../InstrFetch/InstrFetch.srcs/sources_1/new/InstrFetch.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MEM/MEM.srcs/sources_1/new/MEM.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../MPG/MPG.srcs/sources_1/new/MPG.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../SSD/SSD.srcs/sources_1/new/SSD.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../UART_TX/UART_TX.srcs/sources_1/new/UART_TX.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/TestEnv.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/InitCounter.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="TestEnv"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../../Desktop/Basys3.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
