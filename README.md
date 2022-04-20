@@ -99,6 +99,20 @@ folder.
   </tr>
 </table>
 
+## Tutorial
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/mk6rK80r/Component-33-1.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/t4zgjR0f/Component-34-1.png"
+  >
+</p>
+
 ## Authors
 
 - [@mariusstoica21](https://github.com/mariusstoica21)
