@@ -103,23 +103,52 @@ folder.
 
 <p align="center">
   <img 
+    src="https://i.postimg.cc/Nf3XMjzj/Component-35-1.png"
+  >
+</p>
+
+<p align="center">
+  <img 
     src="https://i.postimg.cc/t4zgjR0f/Component-34-1.png"
   >
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://i.postimg.cc/mk6rK80r/Component-33-1.png"
   >
-</p>
-
-
+</p> -->
 
 <p align="center">
   <img 
-    src="https://i.postimg.cc/Nf3XMjzj/Component-35-1.png"
+    src="https://i.postimg.cc/0jSxQMx0/Component-37-1.png"
   >
 </p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/5y54gYGN/Component-39-1.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/RhJfZRNp/Component-40-1.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/ZKhF5Gxr/Component-41-1.png"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/YS7JND7g/Component-42-1.png"
+  >
+</p>
+
 
 ## Authors
 
