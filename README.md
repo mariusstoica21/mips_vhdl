@@ -107,11 +107,11 @@ folder.
   >
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://i.postimg.cc/3N2Yts7p/v1.jpg"
   >
-</p>
+</p> -->
 
 <p align="center">
   <img 
@@ -119,11 +119,11 @@ folder.
   >
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://i.postimg.cc/5N3Mjqtx/v2.jpg"
   >
-</p>
+</p> -->
 
 
 
@@ -162,6 +162,14 @@ folder.
     src="https://i.postimg.cc/YS7JND7g/Component-42-1.png"
   >
 </p>
+
+<p align="center">
+  <img 
+    src="https://i.postimg.cc/Y08mCnD5/Component-1-1.png"
+  >
+</p>
+
+
 
 
 ## Authors
