@@ -101,6 +101,8 @@ folder.
 
 ## Tutorial
 
+### MIPS.exe results
+
 <p align="center">
   <img 
     src="https://i.postimg.cc/Nf3XMjzj/Component-35-1.png"
@@ -162,6 +164,8 @@ folder.
     src="https://i.postimg.cc/YS7JND7g/Component-42-1.png"
   >
 </p>
+
+### FPGA instructions & results
 
 <p align="center">
   <img 
