@@ -50,20 +50,7 @@ The project consists of two main components:
 
 ▶️ MIPS.exe : application executable.
 
-## Additional resources
-
-➕ FPGA board (preferable Basys3 because of the constraints);
-
-➕ Cable to connect the FPGA board to the computer;
-
-## Installation
-- Go to https://github.com/mariusstoica21/calculator_asmx86.
-- Click the green **'Code'** button.
-- Click **'Download ZIP'**.
-- Import the VHDL project and load it on the Basys3 board.
-- Run the app by double-clicking **'MIPS.exe'** in the 'mips_vhdl_main' 
-folder.
-- On the Basys3, click the left button (BTN4) in order to jump to the next intruction.
+### Technologies
 
 <table>
   <tr>
@@ -98,6 +85,25 @@ folder.
    </td>
   </tr>
 </table>
+
+## Installation
+- Go to https://github.com/mariusstoica21/calculator_asmx86.
+- Click the green **'Code'** button.
+- Click **'Download ZIP'**.
+- Import the VHDL project and load it on the Basys3 board.
+- Run the app by double-clicking **'MIPS.exe'** in the 'mips_vhdl_main' 
+folder.
+- On the Basys3, click the left button (BTN4) in order to jump to the next intruction.
+
+## Additional resources
+
+➕ FPGA board (preferable Basys3 because of the constraints);
+
+➕ Cable to connect the FPGA board to the computer;
+
+
+
+
 
 ## Tutorial
 
