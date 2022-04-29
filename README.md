@@ -22,7 +22,7 @@ The project consists of two main components:
   - UART: transmits data from the FPGA board to the computer.
 - Delphi component
   - dektop application of the MIPS simulator that shows the flow of the program, stored in ROM memory as the program memory, instruction by instruction;
-  - the program, stored in ROM in binary, does the addition of the first 5 numbers (example: 1+2+3+4+5=15). 
+  - the program, stored in ROM in binary, does the addition of the first 6 numbers (example: 1+2+3+4+5+6=21). 
 
 ## Summary
 ✅ G.U.I. 
