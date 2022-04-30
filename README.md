@@ -31,7 +31,7 @@ The project consists of two main components:
 
 ✅ Additional hardware needed
 
-✅ Video available
+✅ [Video available](https://www.youtube.com/watch?v=Xl3dxoC3NGQ)
 
 ❌ Documentation
 
